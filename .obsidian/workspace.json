@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer-Network/The Network Layer.md",
+                "file": "MongoDB.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#db",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer-Network/The Network Layer.md",
+                "file": "MongoDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer-Network/The Network Layer.md",
+                "file": "MongoDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer-Network/The Network Layer.md"
+                "file": "MongoDB.md"
               }
             }
           }
@@ -146,9 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58d33ebb4abcdf39",
+  "active": "3700aa8f50a611c2",
   "lastOpenFiles": [
     "Computer-Network/The Network Layer.md",
+    "MongoDB.md",
+    "README.md",
     "Computer-Network"
   ]
 }

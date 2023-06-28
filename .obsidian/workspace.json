@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4a9291b6965deab1",
+        "id": "287e04fdeda77da0",
         "type": "tabs",
         "children": [
           {
-            "id": "96a8966171700a7f",
+            "id": "642aec9fce0ab07e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MongoDB.md",
+                "file": "Django/admin template.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,12 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 313.5
   },
   "right": {
     "id": "0e8325d72f4aa4ea",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MongoDB.md",
+                "file": "Django/admin template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MongoDB.md",
+                "file": "Django/admin template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MongoDB.md"
+                "file": "Django/admin template.md"
               }
             }
           }
@@ -147,11 +146,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3700aa8f50a611c2",
+  "active": "642aec9fce0ab07e",
   "lastOpenFiles": [
-    "Computer-Network/The Network Layer.md",
-    "MongoDB.md",
-    "README.md",
-    "Computer-Network"
+    "Django/Q object.md",
+    "Django/admin template.md",
+    "Django",
+    "Cheat Sheets/Markdown.md",
+    "Software Engineering/REST.md",
+    "Programming Languages/Golang/Packages vs Modules in Golang.md",
+    "Networking/Protocols/AMQP.md",
+    "Linux/Managing Users and Groups.md",
+    "Linux/Managing Processes.md",
+    "Linux/General Commands.md",
+    "Linux/Files.md",
+    "Kubernetes/Kubernetes Components.md",
+    "Kubernetes/kuber-arch2.png",
+    "Kubernetes/kuber-arch.png",
+    "Kubernetes/eks.png",
+    "Git/CI-CD.png",
+    "Git/CI CD.md",
+    "Docker/Dockerizing an Application.md",
+    "Docker/Compose.md",
+    "Docker/Building Optimization.md",
+    "Database/Redis.md",
+    "Django/MongoDB.md",
+    "Software Engineering/Architecture Patterns/reverse-proxy.png",
+    "Software Engineering/Architecture Patterns/Monolithic.md",
+    "Software Engineering/Architecture Patterns/forward-proxy.png",
+    "Software Engineering/Architecture Patterns/Microservice.md",
+    "Software Engineering/Architecture Patterns/ingress-service.png",
+    "Software Engineering/Architecture Patterns/api-gateway.png",
+    "Software Engineering/Architecture Patterns/Design vs Architecture Patterns.md",
+    "Software Engineering/Testing.md",
+    "Software Engineering/SOLID.md",
+    "Software Engineering/OOP Principles.md",
+    "Software Engineering/Dependency Injection.md",
+    "Software Engineering/Architecture Patterns",
+    "Software Engineering",
+    "Programming Languages/Golang/Goroutines.md",
+    "Programming Languages/Golang",
+    "Programming Languages",
+    "OS Concepts/Parallelism/proc-threads.png",
+    "OS Concepts/Parallelism",
+    "OS Concepts",
+    "Networking/Message Brokers/RabbitMQ.png",
+    "Networking/Protocols",
+    "Networking/Message Brokers",
+    "Networking"
   ]
 }

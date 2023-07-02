@@ -42,3 +42,5 @@ With generalized forwarding, the match can be made over multiple header fields a
 
 
 * Forwarding rule is only based on destination address.
+* We consider ICMP as a network-layer protocol, as ICMP packets are encapsulated by an IP packet.
+* Different ASs may have different network topologies, traffic patterns, and performance requirements, and may therefore choose to use different intra-AS routing algorithms that are optimized for their specific needs.

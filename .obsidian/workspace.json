@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "287e04fdeda77da0",
+        "id": "d55e140a650432bd",
         "type": "tabs",
         "children": [
           {
-            "id": "642aec9fce0ab07e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML-CSS/CSS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6094d69b710a02c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3c3af1b48866133",
+            "id": "914b2d7e03df23d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 385.51103591918945
   },
   "right": {
     "id": "0e8325d72f4aa4ea",
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS.md",
+                "file": "Cheat Sheets/Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS.md",
+                "file": "Cheat Sheets/Markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS.md"
+                "file": "Cheat Sheets/Markdown.md"
               }
             }
           }
@@ -171,23 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6094d69b710a02c3",
+  "active": "914b2d7e03df23d6",
   "lastOpenFiles": [
+    "Language/germany.md",
+    "README.md",
+    "HTML-CSS/CSS.md",
+    "HTML-CSS/Pasted image 20230703013421.png",
+    "JS/JS.md",
+    "Pasted image 20230703013421.png.md",
+    "HTML-CSS/Pasted image 20230703102926.png",
+    "HTML-CSS/Pasted image 20230703090406.png",
+    "HTML-CSS/Pasted image 20230703090338.png",
+    "HTML-CSS/Pasted image 20230703090248.png",
+    "Django/admin template.md",
+    "Django/MongoDB.md",
+    "Django/Q object.md",
     "Cheat Sheets/Markdown.md",
     "JS.md",
-    "HTML-CSS/CSS.md",
     "JS",
-    "Pasted image 20230703102926.png",
     "germany.md",
-    "Pasted image 20230703013421.png",
-    "Pasted image 20230703090248.png",
-    "Pasted image 20230703090338.png",
-    "Pasted image 20230703090406.png",
-    "Django/admin template.md",
     "PostgreSQL/Commands.md",
     "PostgreSQL",
     "HTML-CSS",
-    "Django/Q object.md",
     "Django",
     "Software Engineering/REST.md",
     "Programming Languages/Golang/Packages vs Modules in Golang.md",
@@ -206,13 +186,8 @@
     "Docker/Compose.md",
     "Docker/Building Optimization.md",
     "Database/Redis.md",
-    "Django/MongoDB.md",
     "Software Engineering/Architecture Patterns/reverse-proxy.png",
     "Software Engineering/Architecture Patterns/Monolithic.md",
-    "Software Engineering/Architecture Patterns/Microservice.md",
-    "Software Engineering/Architecture Patterns/Design vs Architecture Patterns.md",
-    "Software Engineering/Testing.md",
-    "Software Engineering/SOLID.md",
     "Software Engineering/Architecture Patterns",
     "Software Engineering",
     "Programming Languages/Golang",

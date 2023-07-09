@@ -30,9 +30,6 @@ A **method** is an action you can do (like add or deleting an HTML element).
 
 The most common way to access an HTML element is to use the `id` of the element.
 
-
 `<p id="demo"></p> ` 
-  
-`<script>  
-document.getElementById("demo").innerHTML = "Hello World!";  
-</script> `
+`<script>document.getElementById("demo").innerHTML = "Hello World!";</script> `
+

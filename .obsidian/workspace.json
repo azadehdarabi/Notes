@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/admin action.md",
+                "file": "HTML-CSS/CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/admin action.md",
+                "file": "Cheat Sheets/Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/admin action.md",
+                "file": "Cheat Sheets/Markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django/admin action.md"
+                "file": "Cheat Sheets/Markdown.md"
               }
             }
           }
@@ -171,21 +171,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6094d69b710a02c3",
+  "active": "b3c3af1b48866133",
   "lastOpenFiles": [
-    "Pasted image 20230709135223.png",
-    "JS.md",
-    "Django/admin action.md",
-    "Cheat Sheets/Markdown.md",
     "HTML-CSS/CSS.md",
+    "Pasted image 20230709135223.png",
+    "Django/admin template.md",
+    "Django/admin action.md",
+    "Language/germany.md",
+    "Language",
+    "JS/JS.md",
+    "HTML-CSS/Pasted image 20230703102926.png",
+    "HTML-CSS/Pasted image 20230703090406.png",
+    "HTML-CSS/Pasted image 20230703090338.png",
+    "HTML-CSS/Pasted image 20230703090248.png",
+    "HTML-CSS/Pasted image 20230703013421.png",
+    "JS.md",
+    "Cheat Sheets/Markdown.md",
     "JS",
     "Pasted image 20230703102926.png",
     "germany.md",
     "Pasted image 20230703013421.png",
     "Pasted image 20230703090248.png",
     "Pasted image 20230703090338.png",
-    "Pasted image 20230703090406.png",
-    "Django/admin template.md",
     "PostgreSQL/Commands.md",
     "PostgreSQL",
     "HTML-CSS",
@@ -199,25 +206,17 @@
     "Linux/General Commands.md",
     "Linux/Files.md",
     "Kubernetes/Kubernetes Components.md",
-    "Kubernetes/kuber-arch2.png",
-    "Kubernetes/kuber-arch.png",
-    "Kubernetes/eks.png",
-    "Git/CI-CD.png",
     "Git/CI CD.md",
     "Docker/Dockerizing an Application.md",
     "Docker/Compose.md",
     "Docker/Building Optimization.md",
     "Database/Redis.md",
     "Django/MongoDB.md",
-    "Software Engineering/Architecture Patterns/reverse-proxy.png",
     "Software Engineering/Architecture Patterns/Monolithic.md",
-    "Software Engineering/Architecture Patterns/Microservice.md",
-    "Software Engineering/Architecture Patterns/Design vs Architecture Patterns.md",
     "Software Engineering/Architecture Patterns",
     "Software Engineering",
     "Programming Languages/Golang",
     "Programming Languages",
-    "OS Concepts/Parallelism",
-    "OS Concepts"
+    "OS Concepts/Parallelism"
   ]
 }

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS.md",
+                "file": "Django/admin action.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS.md",
+                "file": "Django/admin action.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS.md",
+                "file": "Django/admin action.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS.md"
+                "file": "Django/admin action.md"
               }
             }
           }
@@ -173,8 +173,10 @@
   },
   "active": "6094d69b710a02c3",
   "lastOpenFiles": [
-    "Cheat Sheets/Markdown.md",
+    "Pasted image 20230709135223.png",
     "JS.md",
+    "Django/admin action.md",
+    "Cheat Sheets/Markdown.md",
     "HTML-CSS/CSS.md",
     "JS",
     "Pasted image 20230703102926.png",
@@ -211,8 +213,6 @@
     "Software Engineering/Architecture Patterns/Monolithic.md",
     "Software Engineering/Architecture Patterns/Microservice.md",
     "Software Engineering/Architecture Patterns/Design vs Architecture Patterns.md",
-    "Software Engineering/Testing.md",
-    "Software Engineering/SOLID.md",
     "Software Engineering/Architecture Patterns",
     "Software Engineering",
     "Programming Languages/Golang",

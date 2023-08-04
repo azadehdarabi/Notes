@@ -5,7 +5,8 @@
 everything in admin panel -> 
 `response = super(BaseAdmin, self).changelist_view(request, extra_context)`
 
-<pre>
+
+```
 def changelist_view(self, request, extra_context=None):  
     response = super(BaseAdmin, self).changelist_view(request, extra_context)  
     model_full_name = get_model_fullname(self)  
@@ -16,7 +17,8 @@ def changelist_view(self, request, extra_context=None):
         if hasattr(response, 'context_data') and 'cl' in response.context_data:  
             request.session[queryset_name] = list(response.context_data["cl"].queryset.values('pk'))  
     return response
-</pre>
+```
+
 
 
 submit a form in a web application -> the browser sends a POST request to the server with the form data.

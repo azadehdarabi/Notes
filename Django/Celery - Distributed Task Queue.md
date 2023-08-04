@@ -1,0 +1,2 @@
+In Django, celery is a popular asynchronous task queue library. It allows you to offload time-consuming and resource-intensive tasks to be executed asynchronously in the background, separate from the main request-response cycle of your Django web application. Celery is commonly used for tasks such as sending emails, processing large files, generating reports, or performing any other long-running operations.
+

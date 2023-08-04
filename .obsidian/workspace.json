@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheat Sheets/Markdown.md",
+                "file": "Architecture patterns/Micro service.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cheat Sheets/Markdown.md",
+                "file": "Architecture patterns/Micro service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cheat Sheets/Markdown.md",
+                "file": "Architecture patterns/Micro service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cheat Sheets/Markdown.md"
+                "file": "Architecture patterns/Micro service.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "914b2d7e03df23d6",
   "lastOpenFiles": [
-    "Language/germany.md",
+    "PostgreSQL/Commands.md",
+    "Architecture patterns/Micro service.md",
+    "Architecture patterns",
     "README.md",
+    "Cheat Sheets/Markdown.md",
+    "Language/germany.md",
     "HTML-CSS/CSS.md",
     "HTML-CSS/Pasted image 20230703013421.png",
     "JS/JS.md",
@@ -161,11 +165,9 @@
     "Django/admin template.md",
     "Django/MongoDB.md",
     "Django/Q object.md",
-    "Cheat Sheets/Markdown.md",
     "JS.md",
     "JS",
     "germany.md",
-    "PostgreSQL/Commands.md",
     "PostgreSQL",
     "HTML-CSS",
     "Django",
@@ -187,12 +189,10 @@
     "Docker/Building Optimization.md",
     "Database/Redis.md",
     "Software Engineering/Architecture Patterns/reverse-proxy.png",
-    "Software Engineering/Architecture Patterns/Monolithic.md",
     "Software Engineering/Architecture Patterns",
     "Software Engineering",
     "Programming Languages/Golang",
     "Programming Languages",
-    "OS Concepts/Parallelism",
-    "OS Concepts"
+    "OS Concepts/Parallelism"
   ]
 }

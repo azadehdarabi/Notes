@@ -33,3 +33,27 @@ The most common way to access an HTML element is to use the `id` of the elemen
 `<p id="demo"></p> ` 
 `<script>document.getElementById("demo").innerHTML = "Hello World!";</script> `
 
+#### Add Event Listener DOM Event Types
+The browser can trigger many different types of events on the DOM(Document Object Model).
+
+Here are some of the most common event types and event names:
+
+- Mouse Events: click, dblclick, mousedown, mouseup, contextmenu, mouseout, mousewheel, mouseover
+- Touch Events: touchstart, touchend, touchmove, touchcancel
+- Keyboard Events: keydown, keyup, keypress
+- Form Events: focus, blur, change, submit
+- Window Events: resize, scroll, load, unload, hashchange
+
+Form Events(focus, blur, change, submit):
+
+- focus: An element that has received focus.
+- blur: An element that has lost focus.
+- change: Event that is fired for input, select, and textarea elements when an alteration to the element’s value is done by the user.
+- submit: The submit button is pressed.
+
+Window Events(resize, scroll, load, unload, hashchange):
+
+- resize: This event fires when the document view(window) has been resized.
+- scroll: Event fires when the document view or an element has been scrolled.
+- load/unload: The load event is fired when the whole page has loaded, including all resources such as css and images. Unload is when the document or child resource is being unloaded.
+- hashchange: This event is fired when the identifier of the URL has changed(the part of the URL that begins with a # symbol).

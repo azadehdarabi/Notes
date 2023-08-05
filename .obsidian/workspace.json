@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d55e140a650432bd",
+        "id": "28e3c7c91210ea8a",
         "type": "tabs",
         "children": [
           {
-            "id": "914b2d7e03df23d6",
+            "id": "b8712666b2a12c9b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Architecture patterns/Micro service.md",
-                "mode": "source",
-                "source": false
+                "file": "Database/Pasted image 20230805161235.png"
               }
             }
           }
@@ -69,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.51103591918945
+    "width": 200
   },
   "right": {
     "id": "0e8325d72f4aa4ea",
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture patterns/Micro service.md",
+                "file": "Database/Pasted image 20230805161235.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architecture patterns/Micro service.md",
+                "file": "Database/Pasted image 20230805161235.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architecture patterns/Micro service.md"
+                "file": "Database/Pasted image 20230805161235.png"
               }
             }
           }
@@ -146,29 +144,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "914b2d7e03df23d6",
+  "active": "58d33ebb4abcdf39",
   "lastOpenFiles": [
-    "HTML-CSS/CSS.md",
-    "HTML-CSS/Pasted image 20230703090248.png",
-    "JS/JS.md",
-    "Language/germany.md",
-    "PostgreSQL/Commands.md",
+    "Database/Pasted image 20230805161319.png",
+    "Database/Pasted image 20230805162321.png",
+    "Database/Pasted image 20230805161235.png",
     "Pasted image 20230709135223.png",
-    "README.md",
-    "Computer-Network/The Network Layer.md",
+    "Database/MongoDB.md",
+    "Database/Pasted image 20230805160846.png",
+    "Database/ACID.md",
+    "Database/MongoDB Atlas.md",
+    "Database",
+    "Django/React.md",
+    "JS/JS.md",
+    "Django/admin template.md",
     "Cheat Sheets/Markdown.md",
     "Architecture patterns/Micro service.md",
-    "Django/admin action.md",
-    "Django/Q object.md",
-    "Django/admin template.md",
-    "Django/Celery - Distributed Task Queue.md",
-    "Django/MongoDB.md",
+    "Django/SOLID.md",
     "Architecture patterns",
-    "HTML-CSS/Pasted image 20230703013421.png",
-    "Pasted image 20230703013421.png.md",
+    "Django/admin action.md",
+    "Django/Celery - Distributed Task Queue.md",
+    "Django/Q object.md",
+    "Computer-Network/The Network Layer.md",
+    "README.md",
+    "HTML-CSS/CSS.md",
+    "Language/germany.md",
+    "PostgreSQL/Commands.md",
+    "Language",
     "HTML-CSS/Pasted image 20230703102926.png",
     "HTML-CSS/Pasted image 20230703090406.png",
     "HTML-CSS/Pasted image 20230703090338.png",
+    "HTML-CSS/Pasted image 20230703090248.png",
+    "HTML-CSS/Pasted image 20230703013421.png",
     "JS.md",
     "JS",
     "germany.md",
@@ -181,17 +188,8 @@
     "Linux/Managing Users and Groups.md",
     "Linux/Managing Processes.md",
     "Linux/General Commands.md",
-    "Linux/Files.md",
-    "Kubernetes/Kubernetes Components.md",
-    "Kubernetes/kuber-arch2.png",
-    "Kubernetes/kuber-arch.png",
-    "Kubernetes/eks.png",
-    "Git/CI-CD.png",
-    "Git/CI CD.md",
     "Software Engineering/Architecture Patterns",
     "Software Engineering",
-    "Programming Languages/Golang",
-    "Programming Languages",
-    "OS Concepts/Parallelism"
+    "Programming Languages/Golang"
   ]
 }

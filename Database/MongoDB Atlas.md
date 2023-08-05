@@ -1,0 +1,5 @@
+**MongoDB Atlas** is [MongoDB’s fully-managed cloud database service](https://www.mongodb.com/cloud/atlas/). The service is built to handle enterprise workloads, with support for global [clusters](https://studio3t.com/academy/lessons/introduction-to-mongodb-atlas/#cluster).
+
+You can store your data with **Amazon Web Services (AWS)**, **Google Cloud Platform**, or **Microsoft Azure**. However, you don’t need to set up an account with any of these platforms. MongoDB Atlas takes care of all this behind the scenes.
+
+MongoDB Atlas also automatically handles backend administrative processes such as provisioning resources, setting up clusters, or scaling services. Most of the tasks you perform are simple point-and-click operations that you carry out through the service’s centralized web interface.

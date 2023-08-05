@@ -6,7 +6,7 @@ everything in admin panel ->
 `response = super(BaseAdmin, self).changelist_view(request, extra_context)`
 
 
-```
+```python
 def changelist_view(self, request, extra_context=None):  
     response = super(BaseAdmin, self).changelist_view(request, extra_context)  
     model_full_name = get_model_fullname(self)  

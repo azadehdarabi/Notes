@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer-Network/The Network Layer.md",
+                "file": "Django/SOLID.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0e8325d72f4aa4ea",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer-Network/The Network Layer.md",
+                "file": "Django/SOLID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer-Network/The Network Layer.md",
+                "file": "Django/SOLID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer-Network/The Network Layer.md"
+                "file": "Django/SOLID.md"
               }
             }
           }
@@ -149,14 +148,16 @@
   },
   "active": "e1c968f6655cb165",
   "lastOpenFiles": [
+    "Django/admin action.md",
+    "Django/admin template.md",
+    "Django/Celery - Distributed Task Queue.md",
+    "Django/MongoDB.md",
+    "Django/Q object.md",
+    "Django/SOLID.md",
+    "Computer-Network/The Network Layer.md",
     "Pasted image 20230709135223.png",
     "README.md",
     "Untitled",
-    "Django/MongoDB.md",
-    "Django/Celery - Distributed Task Queue.md",
-    "Django/admin action.md",
-    "Django/admin template.md",
-    "Django/Q object.md",
     "HTML-CSS/CSS.md",
     "JS/JS.md",
     "Language/germany.md",
@@ -189,7 +190,6 @@
     "Git/CI CD.md",
     "Docker/Dockerizing an Application.md",
     "Docker/Compose.md",
-    "Docker/Building Optimization.md",
     "Software Engineering/Architecture Patterns",
     "Software Engineering",
     "Programming Languages/Golang",

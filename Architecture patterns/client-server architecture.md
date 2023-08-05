@@ -1,0 +1,1 @@
+The client-server architecture refers to **a system that hosts, delivers, and manages most of the resources and services that the client requests**. In this model, all requests and services are delivered over a network, and it is also referred to as the networking computing model or client server network.

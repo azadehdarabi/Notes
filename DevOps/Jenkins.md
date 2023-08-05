@@ -1,0 +1,1 @@
+Jenkins is a powerful application that allows continuous integration and continuous delivery of projects, regardless of the platform you are working on.

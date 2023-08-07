@@ -4,33 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "28e3c7c91210ea8a",
+        "id": "37eef302848ee0c4",
         "type": "tabs",
         "children": [
           {
-            "id": "b8712666b2a12c9b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20230709135223.png"
-              }
-            }
-          },
-          {
-            "id": "ec1a2b614739abf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOps/CI CD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1fba2f160fedbefd",
+            "id": "9050c149ee8d234e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "794530b17aec0355",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer-Network/The Network Layer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer-Network/The Network Layer.md",
+                "file": "Architecture patterns/client-server architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer-Network/The Network Layer.md",
+                "file": "Architecture patterns/client-server architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer-Network/The Network Layer.md"
+                "file": "Architecture patterns/client-server architecture.md"
               }
             }
           }
@@ -181,42 +146,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "794530b17aec0355",
+  "active": "58d33ebb4abcdf39",
   "lastOpenFiles": [
+    "Architecture patterns/OOP.md",
+    "Architecture patterns/Micro service.md",
+    "Architecture patterns/client-server architecture.md",
+    "Computer-Network/The Network Layer.md",
+    "Database/MongoDB.md",
+    "Database/ACID.md",
+    "DevOps/Kubernetes.md",
+    "Django/admin template.md",
+    "Django/admin action.md",
+    "HTML-CSS/CSS.md",
+    "JS/JS.md",
     "PostgreSQL/Commands.md",
     "gRPC.md",
-    "Architecture patterns/client-server architecture.md",
-    "DevOps/Kubernetes.md",
-    "DevOps/Pasted image 20230805223913.png",
-    "DevOps/Screenshot from 2023-08-05 22-40-04.png",
+    "Language/germany.md",
+    "Django/Pasted image 20230709135223.png",
     "DevOps/Screenshot from 2023-08-05 22-41-10.png",
+    "DevOps/Screenshot from 2023-08-05 22-40-04.png",
+    "DevOps/Pasted image 20230805223913.png",
     "DevOps/Jenkins.md",
     "DevOps/CI CD.md",
-    "Pasted image 20230709135223.png",
-    "DevOps",
-    "Architecture patterns/OOP.md",
+    "Cheat Sheets/Markdown.md",
     "Database/Pasted image 20230805161235.png",
+    "DevOps",
     "Database/Pasted image 20230805161319.png",
     "Database/Pasted image 20230805162321.png",
-    "Database/MongoDB.md",
     "Database/Pasted image 20230805160846.png",
-    "Database/ACID.md",
     "Database/MongoDB Atlas.md",
     "Database",
     "Django/React.md",
-    "JS/JS.md",
-    "Django/admin template.md",
-    "Cheat Sheets/Markdown.md",
-    "Architecture patterns/Micro service.md",
     "Django/SOLID.md",
     "Architecture patterns",
-    "Django/admin action.md",
     "Django/Celery - Distributed Task Queue.md",
     "Django/Q object.md",
-    "Computer-Network/The Network Layer.md",
     "README.md",
-    "HTML-CSS/CSS.md",
-    "Language/germany.md",
     "Language",
     "HTML-CSS/Pasted image 20230703102926.png",
     "HTML-CSS/Pasted image 20230703090406.png",
@@ -226,7 +191,6 @@
     "PostgreSQL",
     "HTML-CSS",
     "Django",
-    "Software Engineering/REST.md",
     "Software Engineering/Architecture Patterns",
     "Software Engineering"
   ]

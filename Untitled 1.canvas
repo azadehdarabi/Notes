@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"cd50c5cd14621967","x":-72,"y":-123,"width":400,"height":400,"type":"file","file":"Docker/Introduction.md"},
-		{"id":"e29b12f8a7d87633","x":360,"y":-123,"width":400,"height":400,"type":"file","file":"Docker/Technologies.md"}
-	],
-	"edges":[]
-}

@@ -57,3 +57,15 @@ Window Events(resize, scroll, load, unload, hashchange):
 - scroll: Event fires when the document view or an element has been scrolled.
 - load/unload: The load event is fired when the whole page has loaded, including all resources such as css and images. Unload is when the document or child resource is being unloaded.
 - hashchange: This event is fired when the identifier of the URL has changed(the part of the URL that begins with a # symbol).
+
+#### querySelector()
+The `querySelector()` method returns the **first** element that matches a CSS selector.
+
+To return **all** matches (not only the first), use the `querySelectorAll()` instead.
+
+Both `querySelector()` and `querySelectorAll()` throw a SYNTAX_ERR exception if the selector(s) is invalid.
+
+Get the first element with class="example":
+
+`document.querySelector(".example");`
+

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gRPC.md",
+                "file": "JS/JS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gRPC.md",
+                "file": "JS/JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gRPC.md",
+                "file": "JS/JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gRPC.md"
+                "file": "JS/JS.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "6957b69190d921f5",
   "lastOpenFiles": [
+    "gRPC.md",
     "README.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
@@ -169,7 +170,6 @@
     "HTML-CSS/CSS.md",
     "JS/JS.md",
     "PostgreSQL/Commands.md",
-    "gRPC.md",
     "Django/Pasted image 20230709135223.png",
     "DevOps/Screenshot from 2023-08-05 22-41-10.png",
     "DevOps/Screenshot from 2023-08-05 22-40-04.png",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/JS.md",
+                "file": "Message Queue/What is message queuing?.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/JS.md",
+                "file": "Message Queue/What is message queuing?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/JS.md",
+                "file": "Message Queue/What is message queuing?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/JS.md"
+                "file": "Message Queue/What is message queuing?.md"
               }
             }
           }
@@ -148,6 +148,22 @@
   },
   "active": "6957b69190d921f5",
   "lastOpenFiles": [
+    "Architecture patterns/Micro service.md",
+    "Architecture patterns/OOP.md",
+    "Architecture patterns/client-server architecture.md",
+    "Database/MongoDB Atlas.md",
+    "Database/MongoDB.md",
+    "Database/ACID.md",
+    "DevOps/Kubernetes.md",
+    "DevOps/Jenkins.md",
+    "DevOps/CI CD.md",
+    "Django/SOLID.md",
+    "Docker/Technologies.md",
+    "Docker/Introduction.md",
+    "JS/JS.md",
+    "PostgreSQL/Commands.md",
+    "Message Queue/What is message queuing?.md",
+    "Message Queue",
     "gRPC.md",
     "README.md",
     "Untitled 2.canvas",
@@ -155,47 +171,31 @@
     "Untitled.canvas",
     "2023-08-08.md",
     "Language/germany.md",
-    "Docker/Introduction.md",
-    "Docker/Technologies.md",
     "Docker",
-    "Architecture patterns/client-server architecture.md",
-    "Architecture patterns/OOP.md",
-    "Architecture patterns/Micro service.md",
     "Computer-Network/The Network Layer.md",
-    "Database/MongoDB.md",
-    "Database/ACID.md",
-    "DevOps/Kubernetes.md",
     "Django/admin template.md",
     "Django/admin action.md",
     "HTML-CSS/CSS.md",
-    "JS/JS.md",
-    "PostgreSQL/Commands.md",
     "Django/Pasted image 20230709135223.png",
     "DevOps/Screenshot from 2023-08-05 22-41-10.png",
     "DevOps/Screenshot from 2023-08-05 22-40-04.png",
     "DevOps/Pasted image 20230805223913.png",
-    "DevOps/Jenkins.md",
-    "DevOps/CI CD.md",
     "Cheat Sheets/Markdown.md",
     "Database/Pasted image 20230805161235.png",
     "DevOps",
     "Database/Pasted image 20230805161319.png",
     "Database/Pasted image 20230805162321.png",
     "Database/Pasted image 20230805160846.png",
-    "Database/MongoDB Atlas.md",
     "Database",
     "Django/React.md",
-    "Django/SOLID.md",
     "Architecture patterns",
     "Django/Celery - Distributed Task Queue.md",
-    "Django/Q object.md",
     "Language",
     "HTML-CSS/Pasted image 20230703102926.png",
     "HTML-CSS/Pasted image 20230703090406.png",
     "JS",
     "PostgreSQL",
     "HTML-CSS",
-    "Django",
-    "Software Engineering/Architecture Patterns"
+    "Django"
   ]
 }

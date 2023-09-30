@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Message Queue/What is message queuing?.md",
+                "file": "Apache Kafka/Apache kafka.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Message Queue/What is message queuing?.md",
+                "file": "Apache Kafka/Apache kafka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Message Queue/What is message queuing?.md",
+                "file": "Apache Kafka/Apache kafka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Message Queue/What is message queuing?.md"
+                "file": "Apache Kafka/Apache kafka.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "6957b69190d921f5",
   "lastOpenFiles": [
+    "Apache Kafka/What is message queuing?.md",
+    "Apache Kafka/Apache kafka.md",
     "Architecture patterns/Micro service.md",
     "Architecture patterns/OOP.md",
     "Architecture patterns/client-server architecture.md",
@@ -162,8 +164,7 @@
     "Docker/Introduction.md",
     "JS/JS.md",
     "PostgreSQL/Commands.md",
-    "Message Queue/What is message queuing?.md",
-    "Message Queue",
+    "Apache Kafka",
     "gRPC.md",
     "README.md",
     "Untitled 2.canvas",
@@ -189,7 +190,6 @@
     "Database",
     "Django/React.md",
     "Architecture patterns",
-    "Django/Celery - Distributed Task Queue.md",
     "Language",
     "HTML-CSS/Pasted image 20230703102926.png",
     "HTML-CSS/Pasted image 20230703090406.png",

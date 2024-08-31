@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "40986bf0e79de754",
+        "id": "8dc0be46e4744fd1",
         "type": "tabs",
         "children": [
           {
-            "id": "6957b69190d921f5",
+            "id": "a336d187259885ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apache Kafka/Apache kafka.md",
+                "file": "Database/Redis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apache Kafka/Apache kafka.md",
+                "file": "Database/Redis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apache Kafka/Apache kafka.md",
+                "file": "Database/Redis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apache Kafka/Apache kafka.md"
+                "file": "Database/Redis.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,56 +147,56 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6957b69190d921f5",
+  "active": "a336d187259885ca",
   "lastOpenFiles": [
-    "Apache Kafka/What is message queuing?.md",
-    "Apache Kafka/Apache kafka.md",
-    "Architecture patterns/Micro service.md",
-    "Architecture patterns/OOP.md",
-    "Architecture patterns/client-server architecture.md",
+    "Database/ACID.md",
     "Database/MongoDB Atlas.md",
     "Database/MongoDB.md",
-    "Database/ACID.md",
-    "DevOps/Kubernetes.md",
-    "DevOps/Jenkins.md",
-    "DevOps/CI CD.md",
-    "Django/SOLID.md",
+    "Design Patterns/Observer.md",
+    "Design Patterns/Strategy.md",
+    "Database/Redis.md",
+    "Design Patterns/Iterator.md",
+    "Design Patterns/State.md",
+    "Design Patterns/Mediator.md",
+    "Design Patterns/Factory Method.md",
+    "2024-08-30.md",
+    "Django/admin action.md",
     "Docker/Technologies.md",
     "Docker/Introduction.md",
     "JS/JS.md",
     "PostgreSQL/Commands.md",
-    "Apache Kafka",
     "gRPC.md",
-    "README.md",
+    "DevOps/Kubernetes.md",
+    "DevOps/Jenkins.md",
+    "DevOps/CI CD.md",
+    "Apache Kafka/Apache kafka.md",
+    "Apache Kafka/Quick start.md",
+    "Design Patterns",
+    "Architecture patterns/Micro service.md",
+    "Architecture patterns/OOP.md",
+    "Apache Kafka/What is message queuing?.md",
+    "Apache Kafka/Kafka connect.md",
+    "Apache Kafka",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "2023-08-08.md",
-    "Language/germany.md",
     "Docker",
-    "Computer-Network/The Network Layer.md",
-    "Django/admin template.md",
-    "Django/admin action.md",
-    "HTML-CSS/CSS.md",
     "Django/Pasted image 20230709135223.png",
     "DevOps/Screenshot from 2023-08-05 22-41-10.png",
     "DevOps/Screenshot from 2023-08-05 22-40-04.png",
     "DevOps/Pasted image 20230805223913.png",
-    "Cheat Sheets/Markdown.md",
     "Database/Pasted image 20230805161235.png",
     "DevOps",
     "Database/Pasted image 20230805161319.png",
     "Database/Pasted image 20230805162321.png",
     "Database/Pasted image 20230805160846.png",
     "Database",
-    "Django/React.md",
     "Architecture patterns",
     "Language",
     "HTML-CSS/Pasted image 20230703102926.png",
     "HTML-CSS/Pasted image 20230703090406.png",
     "JS",
     "PostgreSQL",
-    "HTML-CSS",
-    "Django"
+    "HTML-CSS"
   ]
 }
